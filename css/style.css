@@ -1,0 +1,20 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: #270F36;
+	margin-bottom: 10px;
+}
+.box{
+	margin: 20px 0;
+	min-height: 80px;
+	background-color: #632B6C;
+	font-size: 30px;
+	color: white;
+}
+.red{
+	background-color: #C76B98;
+}
+.five{
+	background-color: #F09F9C;
+}
+.f_ooter{
+	background-color: #FCC3A3;
+}
